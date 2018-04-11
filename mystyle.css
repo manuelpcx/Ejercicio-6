@@ -1,0 +1,119 @@
+
+.head{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	margin-bottom: 50px;
+	
+}
+.imagen{
+	width: 100px;
+	height: 100px;
+	margin-left: 45%;
+
+}
+.img-responsive{
+	max-width: 100%;
+	border-radius: 50%;
+
+}
+.nombre{
+	color: #FF5B22;
+}
+.container{
+	width: 80%;
+	clear: both;
+	margin: 50px 50px 50px 10%;
+}
+.col-md-1{
+	width: 60%;
+	float: left;
+}
+.col-md-2{
+	width: 30%;
+	float: left;
+	margin-bottom: 20px;
+}
+.skills #s1{
+	margin: 5px;
+	border: solid 1px;
+	background-color: red;
+	color: white;
+}
+.skills #s2{
+	margin: 5px;
+	border: solid 1px;
+	background-color: red;
+	color: white;
+	width: 70%;
+}
+.skills #s3{
+	margin: 5px;
+	border: solid 1px;
+	background-color: red;
+	color: white;
+	width: 50%;
+}
+.skills #s4{
+	margin: 5px;
+	border: solid 1px;
+	background-color: red;
+	color: white;
+	width: 30%;
+}
+.skills #s5{
+	margin: 5px;
+	border: solid 1px;
+	background-color: red;
+	color: white;
+	width: 20%;
+}
+.col-md-3{
+	width: 10%;
+	float: left;
+
+}
+.col-md-4{
+	width: 80%;
+	float: left;
+	border-radius: 10%;
+	background-color: silver;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	padding: 5px;
+	margin-left: 20px;
+}
+.col-md-4 .experiencia{
+	width: 90%;
+	float: left;
+	margin-bottom: 10px;
+	padding: 5px;
+	margin-left: 10%;
+}
+h3{
+	color: #FF5B22;
+}
+.hob li{
+	float: left;
+	border: solid 1px;
+	background-color: #E85F91;
+	box-sizing: border-box;
+	margin-left: 5px;
+	display: inline-block;
+	padding: 5px;
+}
+.years{
+	font-size: 0.8em;
+	color: silver;
+}
+p{
+	font-family: "Times New Roman"
+}
+@media (max-width: 480px){
+	.col-md-1{
+		width: 100%;
+	}
+	.col-md-2{
+		width: 100%;
+	}
+}
